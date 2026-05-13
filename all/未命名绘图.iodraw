@@ -8,7 +8,7 @@
           <mxGeometry x="1279" y="1658" width="492" height="232" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-2" value="第四阶段：多维度验证与核心靶点筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="591" y="1436" width="564" height="454" as="geometry" />
+          <mxGeometry x="660" y="1411" width="564" height="454" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-3" value="第三阶段：疾病靶点交集与网络分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="869" width="635" height="517" as="geometry" />
@@ -62,22 +62,22 @@
           <mxGeometry x="806" y="1313" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-20" value="GEO数据库查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="1461" width="170" height="48" as="geometry" />
+          <mxGeometry x="699" y="1436" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-21" value="机理研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="653" y="1559" width="124" height="48" as="geometry" />
+          <mxGeometry x="722" y="1534" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-22" value="Cytoscape筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="956" y="1461" width="165" height="48" as="geometry" />
+          <mxGeometry x="1025" y="1436" width="165" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-23" value="核心靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="976" y="1559" width="124" height="48" as="geometry" />
+          <mxGeometry x="1045" y="1534" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-24" value="核心靶点与GEO机理结果互相比对整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="627" y="1683" width="250" height="66" as="geometry" />
+          <mxGeometry x="696" y="1658" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-25" value="获得三级质量标志物（一级/二级/三级）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="626" y="1799" width="252" height="66" as="geometry" />
+          <mxGeometry x="695" y="1774" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-26" value="一级质量标志物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1334" y="1692" width="172" height="48" as="geometry" />
@@ -202,15 +202,15 @@
         <mxCell id="d7aiifrL--OZfidGAaGG-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-21" target="d7aiifrL--OZfidGAaGG-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="715" y="1658" />
+              <mxPoint x="784" y="1633" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-23" target="d7aiifrL--OZfidGAaGG-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="897" y="1633" />
-              <mxPoint x="897" y="1658" />
+              <mxPoint x="966" y="1608" />
+              <mxPoint x="966" y="1633" />
             </Array>
           </mxGeometry>
         </mxCell>
