@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="d7aiifrL--OZfidGAaGG-1" value="第五阶段：实验验证与分子对接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1279" y="1658" width="492" height="232" as="geometry" />
+          <mxGeometry x="691.5" y="1890" width="492" height="232" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-2" value="第四阶段：多维度验证与核心靶点筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="1411" width="564" height="454" as="geometry" />
@@ -80,13 +80,13 @@
           <mxGeometry x="695" y="1774" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-26" value="一级质量标志物" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1334" y="1692" width="172" height="48" as="geometry" />
+          <mxGeometry x="746.5" y="1924" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-27" value="分子对接验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1556" y="1692" width="156" height="48" as="geometry" />
+          <mxGeometry x="968.5" y="1924" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-28" value="获取所有质量标志物的红外光谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1426" y="1799" width="252" height="66" as="geometry" />
+          <mxGeometry x="838.5" y="2031" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-6" target="d7aiifrL--OZfidGAaGG-7">
           <mxGeometry relative="1" as="geometry">
@@ -230,14 +230,14 @@
         <mxCell id="d7aiifrL--OZfidGAaGG-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.2;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-26" target="d7aiifrL--OZfidGAaGG-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1420" y="1774" />
+              <mxPoint x="832.5" y="2006" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.69;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-27" target="d7aiifrL--OZfidGAaGG-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1634" y="1774" />
+              <mxPoint x="1046.5" y="2006" />
             </Array>
           </mxGeometry>
         </mxCell>
