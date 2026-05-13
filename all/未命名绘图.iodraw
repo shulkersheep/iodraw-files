@@ -17,16 +17,16 @@
           <mxGeometry x="60" y="513" width="475" height="455" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-5" value="第一阶段：数据收集与初步筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="134" y="150" width="328" height="313" as="geometry" />
+          <mxGeometry x="793" y="80" width="328" height="313" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-6" value="收集文献和数据库中的成分-靶点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="169" y="175" width="258" height="66" as="geometry" />
+          <mxGeometry x="828" y="105" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-7" value="口服利用度与类药性筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="179" y="291" width="236" height="48" as="geometry" />
+          <mxGeometry x="838" y="221" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-8" value="得到筛选后的成分集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="389" width="204" height="48" as="geometry" />
+          <mxGeometry x="854" y="319" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-9" value="筛选后的成分集" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217" y="538" width="160" height="160" as="geometry" />
