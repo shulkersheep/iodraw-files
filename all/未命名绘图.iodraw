@@ -41,7 +41,7 @@
           <mxGeometry x="836.5" y="774" width="242" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-13" value="流感疾病靶点数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1016" y="894" width="204" height="48" as="geometry" />
+          <mxGeometry x="1000" y="880" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-14" value="交集靶点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="915" y="950" width="140" height="48" as="geometry" />
