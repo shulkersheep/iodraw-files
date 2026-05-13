@@ -23,10 +23,10 @@
           <mxGeometry x="828" y="70" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-7" value="口服利用度与类药性筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="839" y="186.5" width="236" height="48" as="geometry" />
+          <mxGeometry x="836.5" y="240" width="236" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-8" value="得到筛选后的成分集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="855.5" y="280" width="204" height="48" as="geometry" />
+          <mxGeometry x="852.5" y="330" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-9" value="筛选后的成分集" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="876.5" y="418" width="160" height="160" as="geometry" />
