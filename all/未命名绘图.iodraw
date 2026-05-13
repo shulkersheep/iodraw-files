@@ -14,7 +14,7 @@
           <mxGeometry x="555" y="869" width="635" height="517" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-4" value="第二阶段：靶点获取与整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="513" width="475" height="455" as="geometry" />
+          <mxGeometry x="719.5" y="393" width="475" height="455" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-5" value="第一阶段：数据收集与初步筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="793" y="80" width="328" height="313" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="854" y="319" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-9" value="筛选后的成分集" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="217" y="538" width="160" height="160" as="geometry" />
+          <mxGeometry x="876.5" y="418" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-10" value="直接提取靶点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="116" y="771" width="156" height="48" as="geometry" />
+          <mxGeometry x="775.5" y="651" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-11" value="进行靶点预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="322" y="771" width="156" height="48" as="geometry" />
+          <mxGeometry x="981.5" y="651" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-12" value="整合得到完整成分-靶点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="177" y="894" width="242" height="48" as="geometry" />
+          <mxGeometry x="836.5" y="774" width="242" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-13" value="流感疾病靶点数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="951" y="894" width="204" height="48" as="geometry" />
@@ -106,28 +106,28 @@
         <mxCell id="d7aiifrL--OZfidGAaGG-32" value="有明确靶点" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-9" target="d7aiifrL--OZfidGAaGG-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="194" y="734" />
+              <mxPoint x="853.5" y="614" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-33" value="靶点不明" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-9" target="d7aiifrL--OZfidGAaGG-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="734" />
+              <mxPoint x="1059.5" y="614" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-10" target="d7aiifrL--OZfidGAaGG-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="194" y="869" />
+              <mxPoint x="853.5" y="749" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-11" target="d7aiifrL--OZfidGAaGG-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="869" />
+              <mxPoint x="1059.5" y="749" />
             </Array>
           </mxGeometry>
         </mxCell>
