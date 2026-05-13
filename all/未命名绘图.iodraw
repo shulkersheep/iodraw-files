@@ -11,7 +11,7 @@
           <mxGeometry x="695" y="1436" width="564" height="454" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-3" value="第三阶段：疾病靶点交集与网络分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="555" y="869" width="635" height="517" as="geometry" />
+          <mxGeometry x="30" y="1000" width="635" height="517" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-4" value="第二阶段：靶点获取与整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="513" width="475" height="455" as="geometry" />
