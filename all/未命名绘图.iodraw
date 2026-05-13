@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2977" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="695" y="1436" width="564" height="454" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-3" value="第三阶段：疾病靶点交集与网络分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="881.5" width="635" height="517" as="geometry" />
+          <mxGeometry x="555" y="869" width="635" height="517" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-4" value="第二阶段：靶点获取与整合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="513" width="475" height="455" as="geometry" />
@@ -42,11 +42,6 @@
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-13" value="流感疾病靶点数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="951" y="894" width="204" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="d7aiifrL--OZfidGAaGG-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="d7aiifrL--OZfidGAaGG-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.99999999999955" y="1100" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-14" value="交集靶点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="1017" width="140" height="48" as="geometry" />
