@@ -20,7 +20,7 @@
           <mxGeometry x="792" y="70" width="328" height="313" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-6" value="收集文献和数据库中的成分-靶点数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="828" y="70" width="258" height="66" as="geometry" />
+          <mxGeometry x="825.5" y="130" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-7" value="口服利用度与类药性筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="836.5" y="240" width="236" height="48" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1016" y="894" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-14" value="交集靶点集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="915" y="1017" width="140" height="48" as="geometry" />
+          <mxGeometry x="915" y="950" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="d7aiifrL--OZfidGAaGG-15" value="PPI蛋白互作网络分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="1116" width="210" height="48" as="geometry" />
