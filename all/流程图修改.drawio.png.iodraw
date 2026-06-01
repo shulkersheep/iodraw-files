@@ -148,7 +148,7 @@
           <mxGeometry x="310" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-43" value="机理研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-41" target="PVUMcEExWSAVdZeWlUvC-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-48" value="&amp;nbsp;显著性及差异性高结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-50" value="分级质量标志物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="640" width="120" height="60" as="geometry" />
