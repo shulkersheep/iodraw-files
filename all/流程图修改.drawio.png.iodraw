@@ -114,7 +114,7 @@
             <mxPoint x="380" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-24" value="网络药理图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-24" value="网络药理图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-27" value="kegg分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -141,7 +141,7 @@
             <mxPoint x="440" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-37" value="influenzaA通路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-37" value="influenzaA通路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-41" value="基因表达分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
