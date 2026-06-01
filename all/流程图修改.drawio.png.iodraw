@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="PVUMcEExWSAVdZeWlUvC-56" value="质量标志物获取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="540" width="370" height="380" as="geometry" />
+          <mxGeometry x="120" y="950" width="370" height="380" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-36" value="交集靶点分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="530" width="480" height="390" as="geometry" />
@@ -195,7 +195,7 @@
             <mxPoint x="650" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-50" target="PVUMcEExWSAVdZeWlUvC-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1000" as="sourcePoint" />
             <mxPoint x="650" y="950" as="targetPoint" />
