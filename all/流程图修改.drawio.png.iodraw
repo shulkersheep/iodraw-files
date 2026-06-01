@@ -218,8 +218,8 @@
         <mxCell id="PVUMcEExWSAVdZeWlUvC-67" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;阶段一：成分与靶点网络&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="70" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-68" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="330" width="180" height="120" as="geometry" />
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-68" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;阶段二：&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="525" width="404" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
