@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-41" value="基因表达分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-43" value="机理研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="850" width="120" height="60" as="geometry" />
@@ -156,7 +156,7 @@
             <mxPoint x="650" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-37">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-37" target="PVUMcEExWSAVdZeWlUvC-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="590" as="sourcePoint" />
             <mxPoint x="650" y="540" as="targetPoint" />
