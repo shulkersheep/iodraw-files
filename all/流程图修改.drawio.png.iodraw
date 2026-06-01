@@ -153,12 +153,6 @@
             <mxPoint x="650" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-41" target="PVUMcEExWSAVdZeWlUvC-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="590" as="sourcePoint" />
-            <mxPoint x="650" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-48" value="&amp;nbsp;显著性及差异性高结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -193,6 +187,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="740" as="sourcePoint" />
             <mxPoint x="650" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-37" target="PVUMcEExWSAVdZeWlUvC-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1000" as="sourcePoint" />
+            <mxPoint x="650" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1000" as="sourcePoint" />
+            <mxPoint x="650" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
