@@ -7,7 +7,7 @@
         <mxCell id="PVUMcEExWSAVdZeWlUvC-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;质量标志物获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="950" width="480" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-36" value="交集靶点分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="530" width="480" height="390" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-68" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;阶段二：交集靶点分析&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="525" width="404" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-69" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="910" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
