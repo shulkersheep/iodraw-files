@@ -171,11 +171,14 @@
         <mxCell id="PVUMcEExWSAVdZeWlUvC-48" value="&amp;nbsp;显著性及差异性高结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-22">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="590" as="sourcePoint" />
             <mxPoint x="650" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
