@@ -159,13 +159,13 @@
         <mxCell id="PVUMcEExWSAVdZeWlUvC-48" value="&amp;nbsp;显著性及差异性高结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-50" value="分级质量标志物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-50" value="分级质量标志物" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-53" value="分子对接验证" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-53" value="分子对接验证" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVUMcEExWSAVdZeWlUvC-54" value="红外光谱收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PVUMcEExWSAVdZeWlUvC-54" value="红外光谱收集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVUMcEExWSAVdZeWlUvC-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PVUMcEExWSAVdZeWlUvC-27" target="PVUMcEExWSAVdZeWlUvC-37">
